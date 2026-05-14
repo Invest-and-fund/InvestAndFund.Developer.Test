@@ -42,3 +42,9 @@ You **do not** need to:
 
 There is no single correct solution. We care about **quality of thinking and approach**.
 
+## To Upload Your Solution
+
+1. Set-up an account on GitHub or use your existing account. 
+2. Create a public repository called "InvestAndFund Technical Test – {name}" replacing {name} with your own. 
+3. Or create a zip file of your solution and send via email.
+
