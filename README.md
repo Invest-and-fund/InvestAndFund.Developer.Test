@@ -23,8 +23,8 @@ Please be prepared to **explain your reasoning**, trade‑offs, and design decis
 ## New Requirement 
 A new customer type is being introduced:
 
-CustomerType = Loyal
-Loyal customers receive a 50% discount
+- CustomerType = Loyal
+- Loyal customers receive a 50% discount
 
 This change must be added without increasing risk or making the code harder to maintain.
 
