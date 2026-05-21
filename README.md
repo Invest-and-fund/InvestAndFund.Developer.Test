@@ -20,6 +20,14 @@ You **do not** need to redesign the entire system. Focus on **high‑value impro
 
 Please be prepared to **explain your reasoning**, trade‑offs, and design decisions.
 
+## New Requirement 
+A new customer type is being introduced:
+
+CustomerType = Loyal
+Loyal customers receive a 50% discount
+
+This change must be added without increasing risk or making the code harder to maintain.
+
 ## Explicit Out of Scope
 
 The following methods **do not require real implementations**:
